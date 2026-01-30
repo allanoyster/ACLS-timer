@@ -4,7 +4,7 @@ This repository contains the ACLS Timer HTML page.
 
 Files:
 
-- `ACLS-timer.html` — the web page you can publish with GitHub Pages. Open it directly at `./ACLS-timer.html` after cloning, or at the Pages URL after publishing.
+- `main.html` — the web page you can publish with GitHub Pages. Open it directly at `./main.html` after cloning, or at the Pages URL after publishing.
 
 Publishing with GitHub Pages:
 
